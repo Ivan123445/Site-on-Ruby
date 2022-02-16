@@ -62,6 +62,7 @@ ru:
   pages:
     index:
       title: Добро пожаловать в AskIt!
+      contacts: 'Контакты:'
   questions:
     create:
       success: Вопрос создан!

@@ -62,6 +62,7 @@ en:
   pages:
     index:
       title: Welcome to AskIt!
+      contacts: 'Contacts:'
   questions:
     create:
       success: Question created!
